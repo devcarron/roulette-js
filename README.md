@@ -10,6 +10,6 @@ Enjoy.
 ![roulette](https://user-images.githubusercontent.com/95859352/151274580-ca557cac-3c14-4117-ade0-88735f3eeea0.png)
 
 ## Contact
-- [Twitter](https://x.com/blacksky_jose)
-- [Telegram](https://t.me/blacksky_jose)
-- [Discord](https://discord.gg/blacksky_jose)
+- [Twitter](https://x.com/gamedevcarron)
+- [Telegram](https://t.me/gamedevcarron)
+- [Discord](https://discord.gg/gamedevcarron)
